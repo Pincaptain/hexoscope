@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+}
+
+#canvas__container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#menu {
+  padding: 10px;
+  color: white;
+  text-align: center;
+  margin-bottom: 32px;
+}
+
+#menu__title {
+  font-size: 30px;
+  margin-bottom: 10px;
+}
